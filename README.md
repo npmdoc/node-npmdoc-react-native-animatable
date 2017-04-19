@@ -1,9 +1,14 @@
-# api documentation for  [react-native-animatable (v1.1.1)](https://github.com/oblador/react-native-animatable)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-animatable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-animatable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-animatable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-animatable)
+# npmdoc-react-native-animatable
+
+#### api documentation for  [react-native-animatable (v1.1.1)](https://github.com/oblador/react-native-animatable)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-native-animatable.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-native-animatable) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-native-animatable.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-native-animatable)
+
 #### Easy to use declarative transitions and animations for React Native
 
-[![NPM](https://nodei.co/npm/react-native-animatable.png?downloads=true)](https://www.npmjs.com/package/react-native-animatable)
+[![NPM](https://nodei.co/npm/react-native-animatable.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-animatable)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-animatable/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-react-native-animatable_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-animatable/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-react-native-animatable/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-react-native-animatable/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-react-native-animatable/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-react-native-animatable/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-react-native-animatable/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Joel Arvidsson",
-        "email": "joel@oblador.se"
+        "name": "Joel Arvidsson"
     },
     "bugs": {
         "url": "https://github.com/oblador/react-native-animatable/issues"
@@ -77,13 +81,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "oblador",
-            "email": "joel@oblador.se"
+            "name": "oblador"
         }
     ],
     "name": "react-native-animatable",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/oblador/react-native-animatable.git"
@@ -97,16 +99,6 @@
     "version": "1.1.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module react-native-animatable](#apidoc.module.react-native-animatable)
-
-
-
-# <a name="apidoc.module.react-native-animatable"></a>[module react-native-animatable](#apidoc.module.react-native-animatable)
 
 
 
